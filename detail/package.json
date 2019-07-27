@@ -1,0 +1,26 @@
+{
+  "name": "@umi-block/detail",
+  "version": "0.0.1",
+  "description": "td-detail-block",
+  "main": "src/index.js",
+  "authors": {
+    "name": "lj",
+    "email": ""
+  },
+  "repository": "https://github.com/aisriver/td-blocks/detail",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "@td/design": "^1.2.1",
+    "antd": "^3.20.5",
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.0.0",
+    "umi-plugin-block-dev": "^2.0.0",
+    "umi-plugin-react": "^1.9.11",
+    "umi-types": "^0.2.0"
+  },
+  "license": "MIT"
+}
