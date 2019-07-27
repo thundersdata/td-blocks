@@ -4,10 +4,10 @@
   "description": "td-detail-block",
   "main": "src/index.js",
   "authors": {
-    "name": "lj",
-    "email": ""
+    "name": "liaojun",
+    "email": "liaojun@thundersdata.com"
   },
-  "repository": "https://github.com/aisriver/td-blocks/detail",
+  "repository": "https://github.com/thundersdata/td-blocks.git",
   "scripts": {
     "dev": "umi dev"
   },
